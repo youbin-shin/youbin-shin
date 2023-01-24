@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=350&section=header&text=I%20record%20and%20grow.&fontSize=80&animation=fadeIn&desc=Youbin%20Shin,%20a%20Backend%20Developer&descSize=30&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=280&section=header&text=I%20record%20and%20grow.&fontSize=45&animation=fadeIn&desc=Youbin%20Shin,%20a%20Backend%20Developer&descSize=20&fontAlignY=35)
 
 ### 항상 기록하고 성찰하는 개발자 신유빈입니다. 😊
 
@@ -15,5 +15,5 @@
 ## 🔎 Github Stats
 [![Youbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=youbin-shin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youbin-shin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youbin-shin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
